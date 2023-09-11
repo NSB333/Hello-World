@@ -4,7 +4,7 @@
 My software greets the user with a friendly "Hello World!". It's very cute and very happy. 
 
 My purpose in creating this software is so I could practice making up my repository.
-I learned interesting things about how ReadMe files work and uploading file to GitHub.
+I learned interesting things about how ReadMe files work and uploading file to GitHub. This was a good experience for me to learn more.
 
 
 Demo Video: (https://webmailbyui-my.sharepoint.com/:v:/g/personal/cpendell_byui_edu/EQwgYqK3wo9OmcTbiQvNqwUBnEnv_kFjT2Jz3x2Msv5QBw?e=3D19wp)
